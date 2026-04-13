@@ -1,9 +1,5 @@
 1848. Minimum Distance to the Target Element
-Solved
-Easy
-Topics
-premium lock icon
-Companies
+
 Hint
 Given an integer array nums (0-indexed) and two integers target and start, find an index i such that nums[i] == target and abs(i - start) is minimized. Note that abs(x) is the absolute value of x.
 
@@ -38,20 +34,7 @@ Constraints:
 target is in nums.
  
 
-Seen this question in a real interview before?
-1/5
-Yes
-No
-Accepted
-148,192/232.1K
-Acceptance Rate
-63.8%
-Topics
-Mid Level
-Array
-Weekly Contest 239
-icon
-Companies
+
 Hint 1
 Hint 2
 Discussion (112)
