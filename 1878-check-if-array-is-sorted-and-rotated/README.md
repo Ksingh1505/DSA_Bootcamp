@@ -16,6 +16,8 @@ You can rotate the array by x = 2 positions to begin on the element of value 3: 
 
 <p><strong class="example">Example 2:</strong></p>
 
+
+
 <pre>
 <strong>Input:</strong> nums = [2,1,3,4]
 <strong>Output:</strong> false
